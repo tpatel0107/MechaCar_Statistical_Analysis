@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
 Module 15 Challenge
+## Deliverable One
 ## Linear Regression to Predict MPG
 ## Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? Vehicle_weight,spoiler_angle and AWD provide non random amount of variance. 
     **The maximum random variance was provided by ground_clearence and vehicle_length
