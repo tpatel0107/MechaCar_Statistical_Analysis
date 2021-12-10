@@ -7,3 +7,4 @@ Module 15 Challenge
     **Since p-value is less than zero (5.35e-11), the slope is not equal to zero
 ## Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
     **The R squared value is 71.49% which implies that roughly 72% of the time the predictions will be correct using the linear model
+![GitHub Graph](https://github.com/tpatel0107/MechaCar_Statistical_Analysis/blob/main/Call%20LM.PNG?raw=true)
