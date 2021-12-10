@@ -1,0 +1,5 @@
+library(dplyr)
+cars<-read.csv('MechaCar_mpg.csv')
+regression<-lm(mpg~vehicle_length+vehicle_weight+spoiler_angle+ground_clearance+AWD,cars)
+s<-summary(regression)
+print(regression)
